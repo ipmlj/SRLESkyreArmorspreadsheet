@@ -3241,7 +3241,7 @@
 			<sMaterialName>Vvardenfell Glass</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>36</iArmor>
+			<iArmor>45</iArmor>
 			<sMaterialName>Dragonscale</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -3337,11 +3337,11 @@
 			<sMaterialName>Gold Ebony</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>52</iArmor>
+			<iArmor>51</iArmor>
 			<sMaterialName>Daedric</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>53</iArmor>
+			<iArmor>55</iArmor>
 			<sMaterialName>Daedric Lord</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -3941,11 +3941,11 @@
 		<!-- materials for "Winter is coming" end -->		
 		
 		<armor_material>
-			<iArmor>55</iArmor>
+			<iArmor>52</iArmor>
 			 <sMaterialName>Dragon Knight Heavy</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>45</iArmor>
+			<iArmor>50</iArmor>
 			 <sMaterialName>Dragon Knight Light</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -3973,11 +3973,11 @@
 			<sMaterialName>Scoia'tael Captain's</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>55</iArmor>
+			<iArmor>52</iArmor>
 			<sMaterialName>Dragonbone Ebonsteel</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>45</iArmor>
+			<iArmor>47</iArmor>
 			<sMaterialName>Dragonscale Ebonsteel</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -4076,47 +4076,47 @@
 			<sMaterialName>Heavy Buckler of Sithis</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>48</iArmor>
+			<iArmor>49</iArmor>
 			<sMaterialName>Light Daedric</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>46</iArmor>
+			<iArmor>45</iArmor>
 			<sMaterialName>Light Daedric Buckler</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>52</iArmor>
+			<iArmor>53</iArmor>
 			<sMaterialName>Heavy Daedric</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>50</iArmor>
+			<iArmor>49</iArmor>
 			<sMaterialName>Heavy Daedric Buckler</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>39</iArmor>
+			<iArmor>46</iArmor>
 			<sMaterialName>Light Dragonplate</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>37</iArmor>
+			<iArmor>42</iArmor>
 			<sMaterialName>Light Dragonplate Buckler</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>55</iArmor>
+			<iArmor>50</iArmor>
 			<sMaterialName>Heavy Dragonplate</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>43</iArmor>
+			<iArmor>44</iArmor>
 			<sMaterialName>Heavy Dragonplate Buckler</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>33</iArmor>
+			<iArmor>43</iArmor>
 			<sMaterialName>Light Dragonscale</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>31</iArmor>
+			<iArmor>39</iArmor>
 			<sMaterialName>Light Dragonscale Buckler</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>37</iArmor>
+			<iArmor>47</iArmor>
 			<sMaterialName>Heavy Dragonscale</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -4436,11 +4436,11 @@
 			<sMaterialName>Common Light Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>37</iArmor>
+			<iArmor>39</iArmor>
 			<sMaterialName>Fortified Light Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>39</iArmor>
+			<iArmor>37</iArmor>
 			<sMaterialName>Superior Light Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -4982,11 +4982,11 @@
 			<sMaterialName>Common Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>36</iArmor>
+			<iArmor>38</iArmor>
 			<sMaterialName>Fortified Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>38</iArmor>
+			<iArmor>36</iArmor>
 			<sMaterialName>Superior Shield of Solitude</sMaterialName>
 		</armor_material>
 		<armor_material>
@@ -5170,11 +5170,11 @@
 			<sMaterialName>Primitive Nord Light</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>48</iArmor>
+			<iArmor>46</iArmor>
 			<sMaterialName>Dragonhide Light</sMaterialName>
 		</armor_material>
 		<armor_material>
-			<iArmor>55</iArmor>
+			<iArmor>50</iArmor>
 			<sMaterialName>Dragonhide Heavy</sMaterialName>
 		</armor_material>
 		<armor_material>
